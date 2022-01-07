@@ -1,0 +1,22 @@
+{
+  "name": "wordle-spoiler",
+  "version": "1.0.0",
+  "description": "See the solution for wordler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audreee/wordle-spoiler.git"
+  },
+  "author": "Audree Steinberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audreee/wordle-spoiler/issues"
+  },
+  "homepage": "https://github.com/audreee/wordle-spoiler#readme",
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
