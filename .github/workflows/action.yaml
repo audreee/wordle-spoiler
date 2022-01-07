@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@main
+      - uses: actions/checkout@v2
         name: Checkout current repository to main branch
       - uses: actions/setup-node@v1
         name: Setup NodeJs 13.x
