@@ -3,19 +3,19 @@
 <details>
   <summary>Click to reveal <b>today's</b> word!</summary>
   <br>
-  <b> movie </b>
+  <b> lynch </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>tomorrow's</b> word!</summary>
   <br>
-  <b> lynch </b>
+  <b> saute </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>yesterday's</b> word!</summary>
   <br>
-  <b> cater </b>
+  <b> movie </b>
 </details>
 
 <i>Note: These spoilers are based on EST time-zone. The [Wordle](https://www.powerlanguage.co.uk/wordle/) puzzle solutions are generated according to your local time zone.</i>
