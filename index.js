@@ -10,8 +10,8 @@ const getSolutions = () => {
 
     return {
         today: possibleSolutions[index],
-        yesterday: possibleSolutions[index - 1],
-        tomorrow: possibleSolutions[index + 1]
+        yesterday: possibleSolutions[index + 1],
+        tomorrow: possibleSolutions[index - 1]
     }
 }
 
