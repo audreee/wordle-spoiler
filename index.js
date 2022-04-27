@@ -9,9 +9,9 @@ const getSolutions = () => {
     let index = Math.floor((today - firstDay) / 864e5)
 
     return {
-        today: possibleSolutions[index - 1],
+        today: possibleSolutions[index + 1],
         yesterday: possibleSolutions[index],
-        tomorrow: possibleSolutions[index + 1]
+        tomorrow: possibleSolutions[index - 1]
     }
 }
 
