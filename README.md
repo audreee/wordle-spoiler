@@ -3,7 +3,7 @@
 <details>
   <summary>Click to reveal <b>tomorrow's</b> word!</summary>
   <br>
-  <b> askew </b>
+  <b> zesty </b>
 </details>
 
 <details>
