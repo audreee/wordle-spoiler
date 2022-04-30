@@ -1,15 +1,15 @@
 # wordle-spoiler
 
 <details>
-  <summary>Click to reveal <b>tomorrow's</b> word!</summary>
-  <br>
-  <b> hasty </b>
-</details>
-
-<details>
   <summary>Click to reveal <b>today's</b> word!</summary>
   <br>
   <b> zesty </b>
+</details>
+
+<details>
+  <summary>Click to reveal <b>tomorrow's</b> word!</summary>
+  <br>
+  <b> hasty </b>
 </details>
 
 <details>
