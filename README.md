@@ -1,4 +1,6 @@
 # wordle-spoiler
+### Warning: The following is now deprecated. This was based off the original version of [Wordle](https://www.powerlanguage.co.uk/wordle/) before the NYT acquisition. These solutions are no-longer accurate
+
 
 <details>
   <summary>Click to reveal <b>today's</b> word!</summary>
