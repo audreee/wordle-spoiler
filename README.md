@@ -5,19 +5,19 @@
 <details>
   <summary>Click to reveal <b>today's</b> word!</summary>
   <br>
-  <b> stein </b>
+  <b> exist </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>tomorrow's</b> word!</summary>
   <br>
-  <b> exist </b>
+  <b> quirk </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>yesterday's</b> word!</summary>
   <br>
-  <b> spade </b>
+  <b> stein </b>
 </details>
 
 <i>Note: These spoilers are based on EST time-zone. The [Wordle](https://www.powerlanguage.co.uk/wordle/) puzzle solutions are generated according to your local time zone.</i>
