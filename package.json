@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/audreee/wordle-spoiler#readme",
   "dependencies": {
-    "mustache": "^4.2.0"
+    "moment": "^2.29.4",
+    "mustache": "^4.2.0",
+    "undici": "^5.16.0"
   }
 }
