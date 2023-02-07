@@ -27,9 +27,9 @@ jobs:
       - run: npm install
         name: Install dependencies
 
-      - run: node index.js
+      - run: node getSolutions.js
         name: Generate README file
-        
+
       - run: |-
           git add .
           git diff
