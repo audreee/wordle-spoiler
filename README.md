@@ -3,19 +3,19 @@
 <details>
   <summary>Click to reveal <b>today's</b> word!</summary>
   <br>
-  <b> crime </b>
+  <b> maybe </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>tomorrow's</b> word!</summary>
   <br>
-  <b> maybe </b>
+  <b> strap </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>yesterday's</b> word!</summary>
   <br>
-  <b> plunk </b>
+  <b> crime </b>
 </details>
 
 ## Note
