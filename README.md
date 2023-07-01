@@ -3,19 +3,19 @@
 <details>
   <summary>Click to reveal <b>today's</b> word!</summary>
   <br>
-  <b> straw </b>
+  <b> bleep </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>tomorrow's</b> word!</summary>
   <br>
-  <b> bleep </b>
+  <b> mossy </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>yesterday's</b> word!</summary>
   <br>
-  <b> diner </b>
+  <b> straw </b>
 </details>
 
 ## Note
