@@ -3,19 +3,19 @@
 <details>
   <summary>Click to reveal <b>today's</b> word!</summary>
   <br>
-  <b> venom </b>
+  <b> windy </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>tomorrow's</b> word!</summary>
   <br>
-  <b> windy </b>
+  <b> donut </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>yesterday's</b> word!</summary>
   <br>
-  <b> irate </b>
+  <b> venom </b>
 </details>
 
 ## Note
