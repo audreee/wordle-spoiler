@@ -3,19 +3,19 @@
 <details>
   <summary>Click to reveal <b>today's</b> word!</summary>
   <br>
-  <b> older </b>
+  <b> whisk </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>tomorrow's</b> word!</summary>
   <br>
-  <b> whisk </b>
+  <b> clear </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>yesterday's</b> word!</summary>
   <br>
-  <b> quote </b>
+  <b> older </b>
 </details>
 
 ## Note
