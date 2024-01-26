@@ -3,19 +3,19 @@
 <details>
   <summary>Click to reveal <b>today's</b> word!</summary>
   <br>
-  <b> block </b>
+  <b> aloof </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>tomorrow's</b> word!</summary>
   <br>
-  <b> aloof </b>
+  <b> snake </b>
 </details>
 
 <details>
   <summary>Click to reveal <b>yesterday's</b> word!</summary>
   <br>
-  <b> relic </b>
+  <b> block </b>
 </details>
 
 ## Note
